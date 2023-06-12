@@ -6,3 +6,9 @@ Kathy's first attempts to create a public course website
 
 [A video on Google drive about summation notation](https://drive.google.com/file/d/1ZVx39cSh4vabEUyInGjXRxqX7UJDx_Zq/view)
 
+Let's try YouTube
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=LnEjRRcTA-U
+" target="_blank"><img src="http://img.youtube.com/vi/LnEjRRcTA-U/0.jpg" 
+alt="Summation Video" width="240" height="180" border="10" /></a>
+ 
